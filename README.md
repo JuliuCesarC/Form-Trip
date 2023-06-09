@@ -2,7 +2,7 @@
 
 A ideia principal foi desenvolver uma validação de formulário, e para não ficar apenas um simples formulário, desenvolvi o site com o tema de aluguel de cabanas. O usuário pode escolher uma cabana de exemplo, selecionar um data de check-in e um método de pagamento, cada qual com suas respectivas características.
 
-> Este repositório é apenas para a Vitrine Dev, voce pode acessar o repositório original clicando no <a href="https://github.com/juliu-cesar/Form-Trip">Link</a>.
+> :warning: Este repositório é apenas para a Vitrine Dev, voce pode acessar o repositório original clicando no <a href="https://github.com/juliu-cesar/Form-Trip">Link</a>.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -13,7 +13,7 @@ A ideia principal foi desenvolver uma validação de formulário, e para não fi
 
 <div align="center" height="700">
   
-![landing-code](https://user-images.githubusercontent.com/121033909/221356861-7b0ebf43-1c8c-48e6-a516-2516f1e45492.png#vitrinedev)
+![form-trip](https://user-images.githubusercontent.com/121033909/221356861-7b0ebf43-1c8c-48e6-a516-2516f1e45492.png#vitrinedev)
   
 </div>
 
